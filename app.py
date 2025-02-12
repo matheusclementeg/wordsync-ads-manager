@@ -9,7 +9,7 @@ session.headers.update({"Content-Type": "application/json"})
 
 # Dicionário com os tokens dos aplicativos
 TOKENS = {
-    "App 1": "YOU-TOKEN-APP",
+    "App 1": "YOUR-TOKEN-APP",
 }
 
 def obter_contas_de_anuncio(access_token):
